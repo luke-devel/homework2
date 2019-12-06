@@ -1,5 +1,7 @@
 # homework2
 
+https://luke-ols0.github.io/homework2/
+ 
 Portfolio site was created using Bootstrap styling sheet along side a .css style sheet.
 
 The layout is identical to my homework 1, although the code feels easier to work with
